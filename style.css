@@ -1,0 +1,11 @@
+#graphs-container {
+	height: 300px;
+}
+
+#vertical-bar-graph, #pie-chart, #gradient-vertical-bar-graph {
+	width: 33%;
+	height: 100%;
+}
+
+
+  
